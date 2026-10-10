@@ -10,7 +10,7 @@ A responsive, multi-page website showcasing Releasing Through Movement, a creati
 - Gallery (gallery.html)
 
 ## Published Website
-Website URL: 
+Website URL:https://oolajid1.github.io/Olajide-Portfolio/ 
 
 ## AI Use Statement
 I used ChatGPT to troubleshoot coding errors, and for some of the written content.
